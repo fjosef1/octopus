@@ -10,3 +10,7 @@ By combining these tools, I successfully built a simple script for monitoring an
 
 Here is an overview of the dashboard that shows the consumption
 
+![Model](https://github.com/fjosef1/octopus/blob/main/Overview.jpg)
+
+This dashboard is showing the tracked cost
+![Model](https://github.com/fjosef1/octopus/blob/main/Cost.jpg)
