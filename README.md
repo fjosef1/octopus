@@ -9,6 +9,8 @@ I had a simple project in mind: creating a system to track energy usage and cost
 
 By combining these tools, I successfully built a simple script for monitoring and analysing energy consumption.
 
+[MY DASHBOARD](https://snapshots.raintank.io/dashboard/snapshot/Aqws3NAPSeuUNEURHmEsA6sBxyfiA83l)
+
 **To Do:**
 *  Fix the issue with the widget that shows the price for the next 30 minutes 
 *  Fix the issue with the estimate - I'm just using average here 
