@@ -9,6 +9,10 @@ I had a simple project in mind: creating a system to track energy usage and cost
 
 By combining these tools, I successfully built a simple script for monitoring and analysing energy consumption.
 
+**To Do:**
+* Connect to Tesla API and charge the car when the price drops. 
+* Pull data from LightwaveRF to see each device usage at home.
+
 Here is an overview of the dashboard that shows the consumption
 
 ![Model](https://github.com/fjosef1/octopus/blob/main/Overview.jpg)
