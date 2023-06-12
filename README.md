@@ -10,6 +10,8 @@ I had a simple project in mind: creating a system to track energy usage and cost
 By combining these tools, I successfully built a simple script for monitoring and analysing energy consumption.
 
 **To Do:**
+*  Fix the issue with the widget that shows the price for the next 30 minutes 
+*  Fix the issue with the estimate - I'm just using average here 
 * Connect to Tesla API and charge the car when the price drops. 
 * Pull data from LightwaveRF to see each device usage at home.
 
